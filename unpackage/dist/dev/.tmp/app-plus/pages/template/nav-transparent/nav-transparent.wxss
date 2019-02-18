@@ -1,0 +1,11 @@
+
+image,
+swiper,
+.img-view {
+	width: 750rpx;
+	height: 500rpx;
+}
+.page-section-title{
+	margin-top: 50rpx;
+}
+

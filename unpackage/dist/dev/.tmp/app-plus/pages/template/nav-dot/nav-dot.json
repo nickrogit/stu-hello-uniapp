@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "导航栏带红点和角标",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "消息",
+        "fontSize": "14",
+        "redDot": true
+      },
+      {
+        "text": "关注",
+        "fontSize": "14",
+        "badgeText": "12"
+      }
+    ]
+  }
+}

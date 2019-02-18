@@ -1,0 +1,2 @@
+<import src="./gesture-lock.vue.wxml" />
+    <template is="35833f80" data="{{ ...$root['0'], $root }}"/>

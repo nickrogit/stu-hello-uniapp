@@ -1,0 +1,2 @@
+<import src="./list-with-collapses.vue.wxml" />
+    <template is="cf6c2304" data="{{ ...$root['0'], $root }}"/>

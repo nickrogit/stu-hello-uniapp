@@ -1,0 +1,39 @@
+
+.root {
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.shake-up,
+.shake-down {
+	height: 50%;
+	overflow: hidden;
+	-o-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+	-webkit-transition: all .5s ease-in-out;
+	background: #333;
+}
+.up {
+	-ms-transform: translateY(-50%);
+	    transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+.down {
+	-ms-transform: translateY(50%);
+	    transform: translateY(50%);
+	-webkit-transform: translateY(50%);
+}
+image {
+	height: 100%;
+	width: 100%;
+}
+

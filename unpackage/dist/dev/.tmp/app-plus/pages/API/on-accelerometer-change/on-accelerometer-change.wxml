@@ -1,0 +1,2 @@
+<import src="./on-accelerometer-change.vue.wxml" />
+    <template is="62e3ab0e" data="{{ ...$root['0'], $root }}"/>

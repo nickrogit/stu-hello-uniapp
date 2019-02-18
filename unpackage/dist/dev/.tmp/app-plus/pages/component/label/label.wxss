@@ -1,0 +1,11 @@
+
+.uni-list-cell {
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start
+}
+.uni-list .label-3 {
+	padding: 0;
+}
+

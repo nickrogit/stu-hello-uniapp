@@ -1,0 +1,17 @@
+
+.placeholder {
+	opacity: 1;
+	-webkit-transition: opacity 0.4s linear;
+	-o-transition: opacity 0.4s linear;
+	transition: opacity 0.4s linear;
+}
+.placeholder.loaded {
+	opacity: 0;
+}
+.uni-media-list-logo {
+	position: relative;
+}
+.uni-media-list-logo .image {
+	position: absolute;
+}
+

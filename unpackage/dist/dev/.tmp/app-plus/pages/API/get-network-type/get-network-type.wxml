@@ -1,0 +1,2 @@
+<import src="./get-network-type.vue.wxml" />
+    <template is="474818d4" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,2 @@
+<import src="./request-payment.vue.wxml" />
+    <template is="599a7134" data="{{ ...$root['0'], $root }}"/>

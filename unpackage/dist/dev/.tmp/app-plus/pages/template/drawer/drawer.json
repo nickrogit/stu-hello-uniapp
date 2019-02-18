@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "抽屉侧滑菜单drawer",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/uni.ttf",
+        "fontSize": "22px"
+      }
+    ]
+  },
+  "bounce": "none"
+}

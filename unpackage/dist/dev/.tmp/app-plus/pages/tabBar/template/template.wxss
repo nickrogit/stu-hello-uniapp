@@ -1,0 +1,19 @@
+
+page {
+	height: auto;
+	min-height: 100%;
+}
+.uni-card {
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+}
+.uni-list:after {
+	height: 0;
+}
+.uni-list:before {
+	height: 0;
+}
+.uni-hello-text {
+	word-break: break-all;
+}
+

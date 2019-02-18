@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "导航栏组件",
+  "enablePullDownRefresh": true,
+  "titleNView": false,
+  "bounce": "none",
+  "scrollIndicator": "none",
+  "pullToRefresh": {
+    "style": "circle",
+    "offset": "70px",
+    "color": "#007AFF"
+  }
+}

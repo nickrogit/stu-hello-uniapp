@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "导航栏带城市选择",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "北京市",
+        "fontSize": "14",
+        "select": true,
+        "width": "auto"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+
+.list-collapse {
+    padding-left: 36rpx;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+image {
+    width: 100%;
+}
+.page-pd {
+    padding: 36rpx;
+}
+

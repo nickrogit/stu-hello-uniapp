@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "导航栏带自定义按钮",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "share"
+      },
+      {
+        "type": "favorite"
+      }
+    ]
+  }
+}

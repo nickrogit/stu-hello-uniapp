@@ -1,0 +1,1 @@
+<template name="32e1668c"><image mode="{{node.attr.mode}}" lazy-load="{{node.attr.lazyLoad}}" data-src="{{node.attr.src}}" src="{{node.attr.src}}" bindtap="handleProxy" bindload="handleProxy" data-eventid="{{'32e1668c-0'}}" data-comkey="{{$k}}" class="_image 32e1668c {{node.classStr}}" style=" {{newStyleStr || node.styleStr}}"></image></template>

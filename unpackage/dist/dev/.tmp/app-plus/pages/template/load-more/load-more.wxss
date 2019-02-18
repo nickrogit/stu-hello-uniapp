@@ -1,0 +1,15 @@
+
+.list-view {
+	padding:10rpx 0;
+}
+.list-item {
+	margin: 20rpx 0;
+	height: 100rpx;
+	line-height: 100rpx;
+	width: 100%;
+	border-radius: 10rpx;
+	border: 1rpx solid #eee;
+	text-align: center;
+	background:#FFF;
+}
+
